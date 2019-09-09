@@ -16,15 +16,10 @@ public class Test {
 		BinaryTree.main();
 		
 		//TestPassingParameters.main();
-		
-		
-
 	}
 
 	public static void testGraph(Graph g1)
 	{
-
-		
 		GraphNode n1=new GraphNode(1);
 		GraphNode n2=new GraphNode(2);
 		GraphNode n3=new GraphNode(3);
