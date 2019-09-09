@@ -25,7 +25,7 @@ class Range{
     }
 }
 
-public class LongestNonDecreasingSequence{
+public class ex1{
 
     public static Range longestIncreasingSeq(int[] array){
         if (array == null || array.length == 0) return null;

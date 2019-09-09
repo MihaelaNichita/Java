@@ -12,7 +12,7 @@ class NodeAndBounds{
 }
 
 
-public class ValidBST{
+public class ex4{
 
     /**Vulnerable to stack overflow */
     public static boolean isBST(BinaryTreeNode root){

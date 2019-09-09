@@ -22,7 +22,7 @@ class Range{
     }
 }
 
-class SubMatrix{
+class ex2{
     private int rowStart, rowEnd, colStart, colEnd, sum;
 
     SubMatrix(int rs, int re, int cs, int ce, int s){
